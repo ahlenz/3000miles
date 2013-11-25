@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:100' rel='stylesheet' type='text/css'>
+
+   <style>
+
+    body{
+    
+    margin: 0;
+    }
+    
+    header{
+    
+      background-image:url('http://static.panoramio.com/photos/large/49973445.jpg') ;
+      background-size: cover; 
+      padding-bottom: 100px;
+      padding-top: 275px;
+      background-position: center center;
+    
+    }
+    
+    h1{
+    
+      font-size: 350%;
+      text-align: center;
+      color: white;
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 200;
+      
+    }
+    
+    h2{
+    
+      font-size: 150%;
+      text-align: center;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+    
+    
+    }
+    
+    
+
+  </style> 
+</head>
+<body>
+
+  <header>
+  
+   <h1>one couple, two cats, 3000 miles</h1>
+  
+   <h2>our journey from one coast to another...with some cats</h2>
+    
+  </header>
+
+</body>
+</html>
